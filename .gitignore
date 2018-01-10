@@ -1,0 +1,18 @@
+# compiled files
+*.swp
+*.pyc
+
+# logging files
+*.log
+
+# preprocessed files
+*.nii.gz
+
+# generated matlab files
+*.m
+
+# generated directories
+analysis_output/
+nilearn_cache/
+pypreprocess_output/
+pypreprocess_scratch/
